@@ -1,0 +1,7 @@
+{
+    "require": {
+        "react/react": "1.1",
+        "symfony/yaml": "^5.1",
+        "altorouter/altorouter": "^2.0"
+    }
+}

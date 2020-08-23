@@ -1,0 +1,5 @@
+project:
+  title: 'Simple Project With Purge Q-Lipe'
+  url: 'http://localhost:86/PurgeQLipe/'
+
+port: 8080

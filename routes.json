@@ -1,0 +1,6 @@
+[
+    {
+        "pattern": "/",
+        "module": "home.default"
+    }
+]
